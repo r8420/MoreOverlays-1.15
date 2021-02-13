@@ -1,16 +1,16 @@
 {
-    "key.moreoverlays.category": "More Overlays",
-    "key.moreoverlays.chunkbounds.desc": "Tonen/Verbergen Chunk Grenzen",
-    "key.moreoverlays.lightoverlay.desc": "Tonen/Verbergen Donkere Plekken",
+  "key.moreoverlays.category": "More Overlays Updated",
+  "key.moreoverlays.chunkbounds.desc": "Tonen/Verbergen Chunk Grenzen",
+  "key.moreoverlays.lightoverlay.desc": "Tonen/Verbergen Donkere Plekken",
 
-    "gui.config.moreoverlays.tile": "MoreOverlays Instellingen",
-    "gui.config.moreoverlays.reset_config": "Instellingen resetten",
-    "gui.config.moreoverlays.undo": "Wijzigingen resetten",
-    "gui.config.moreoverlays.save": "Opslaan",
-    
-    "config.moreoverlays.category.lightoverlay": "Licht-Overlay",
-    "config.moreoverlays.category.chunkbounds": "Chunk Grenzen",
-    "config.moreoverlays.category.itemsearch": "Item Zoeken",
-    "config.moreoverlays.category.searchoverlay": "Item Zoeken",
-    "config.moreoverlays.category.rendersettings": "Render Instellingen"
+  "gui.config.moreoverlays.tile": "More Overlays Updated Instellingen",
+  "gui.config.moreoverlays.reset_config": "Instellingen resetten",
+  "gui.config.moreoverlays.undo": "Wijzigingen resetten",
+  "gui.config.moreoverlays.save": "Opslaan",
+
+  "config.moreoverlays.category.lightoverlay": "Licht-Overlay",
+  "config.moreoverlays.category.chunkbounds": "Chunk Grenzen",
+  "config.moreoverlays.category.itemsearch": "Item Zoeken",
+  "config.moreoverlays.category.searchoverlay": "Item Zoeken",
+  "config.moreoverlays.category.rendersettings": "Render Instellingen"
 }
